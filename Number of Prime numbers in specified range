@@ -15,5 +15,5 @@ if(i%j==0)
 if(count==0)         
   pcount++;     
   } 
-  return count; 
+  return pcount; 
   }}
